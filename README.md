@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 IS Engineering Student – 6th Sem
-🏫 AMC Engineering College
+🎓 IS Engineering Student 
 🐍 Learning Python basics from Engineering in Kannada
 💡 Passionate about coding and learning new technologies
 
