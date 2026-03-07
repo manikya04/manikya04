@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently studying engineering <br>I'm learning basics of python from engineering in kannada youtube channel
+🎓 IS Engineering Student – 6th Sem
+🏫 AMC Engineering College
+🐍 Learning Python basics from Engineering in Kannada
+💡 Passionate about coding and learning new technologies
 
 
 ## 🌐 Socials:
